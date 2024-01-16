@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 import sys
 
-if __name__ = "__main__":
+if __name__ == "__main__":
     total_args = len(sys.argv)
 
     num_args = total_args - 1
