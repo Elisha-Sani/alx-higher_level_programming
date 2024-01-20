@@ -1,3 +1,2 @@
 #!/usr/bin/python3
-print(chr(65), end="")
-print(*map(chr, range(66, 91)), sep="")
+print(*map(chr, range(65, 91)), sep='')
